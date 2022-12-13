@@ -1,7 +1,7 @@
 ## Hello World🚀 I am Paulo Henrique
 
 - 🤵 I’m currently working on with C#, HTML, CSS, JavaScript and SQL
-- 📚 I’m currently learning Angular
+- 📚 I’m currently learning Angular, React
 
 <div align="center">
   <a href="https://github.com/PauloHenriqueAS">
